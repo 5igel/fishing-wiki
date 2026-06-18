@@ -18,7 +18,8 @@
 - [fish-log](wiki/fish-log.md) — види, улови, вага по довжині
 
 ## Водойми
-- [waters](wiki/waters.md) — місця ловлі (поки загальні нотатки)
+- [waters](wiki/waters.md) — місця ловлі (загальні нотатки + список місць)
+- [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ~3.5 м, карась + лин, крупна риба
 
 ## Покупки й постачальники
 - [shopping](wiki/shopping.md) — куплено / в процесі / спробувати
