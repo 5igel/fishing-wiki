@@ -20,7 +20,7 @@
 ## Водойми
 - [waters](wiki/waters.md) — місця ловлі (загальні нотатки + список місць)
 - [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, ~3.5 м, карась + лин, крупна риба
-- [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, ~1–1.5 м, лящ/густера + плітка, дешевше
+- [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (5 zł); візити 06-12 і 06-19
 
 ## Покупки й постачальники
 - [shopping](wiki/shopping.md) — куплено / в процесі / спробувати
