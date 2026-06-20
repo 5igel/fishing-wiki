@@ -3,7 +3,7 @@
 ## Куплено / є
 - Goture Moonlight 360 (вудка)
 - **Trabucco T-Force XPS Sinking Plus (Tournament Class)** 0,203 мм / 150 м (=#1.5, 5,3 кг) — основна силова лінія; куплено 2026-06-20. ⚠️ Це варіант *Sinking Plus* (жорсткіший), бо вішлистної *Match Sinking* у магазині не було → [gear-line](gear-line.md)
-- **Карповий мат для риби** (під C&R-укладку риби) — куплено 2026-06-20. Свій мат → на [Pod Dębem](waters-poddebem.md) більше не треба орендувати (було 5 zł). *Деталі (розмір/складаний/бренд) — уточнити.* → [gear-terminal](gear-terminal.md)
+- **Мат для риби JAXON** (карповий укладочний мат) — куплено 2026-06-20. Чорний, м'який/стьобаний, червона окантовка; **вбудована лінійка до ~90 см** (шкала 10–90 см), складається в рулон на двох резинках, є ручка для перенесення. Свій мат → на [Pod Dębem](waters-poddebem.md) більше не треба орендувати (було 5 zł). Фото: `raw/mat-jaxon-folded.jpeg`, `raw/mat-jaxon-ruler.jpeg`. → [gear-terminal](gear-terminal.md)
 - **Daiwa Prorex FC Leader Super 0.16 мм 50 м** (флюр, повідцева; єдиний флюр) — 27,45 zł → [gear-line](gear-line.md)
 - **Поплавці балса #2 ×3** (вантажоп. 2.91 г; у наборі ще гачки + float rest) → [gear-floats](gear-floats.md)
 - **Гачки Kamasan B911 Eyed Barbless №12** (безбороді, з вушком) — 10,36 zł → [gear-terminal](gear-terminal.md)
