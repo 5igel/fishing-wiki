@@ -5,6 +5,8 @@
 ## Конкретні місця
 - [waters-kocierz](waters-kocierz.md) — Łowisko Kocierz (платний ставок), ~3.5 м, карась + лин, крупна риба, 50 zł, без зв'язку
 - [waters-poddebem](waters-poddebem.md) — Łowisko «POD DĘBEM» (платне озеро), ~1–1.5 м, лящ/густера + плітка, дрібніша риба, 20 zł, легше їхати
+- [waters-klaj](waters-klaj.md) — Łowisko Kłaj (комерційне, без карти), ~30 км схід (біля A4), карась/короп/амур, пріоритет під карася — *перевірити зариблення*, не відвідував
+- [waters-owczarnia](waters-owczarnia.md) — Łowisko Owczarnia (комерційне, без карти), ~50 км захід, переважно короп (карась не основний), запасний під коропа, не відвідував
 
 ## Порівняння Kocierz vs Pod Dębem
 | | Kocierz | Pod Dębem |

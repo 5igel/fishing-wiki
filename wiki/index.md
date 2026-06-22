@@ -21,6 +21,8 @@
 - [waters](wiki/waters.md) — місця ловлі (загальні нотатки + список місць)
 - [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см, ~3 кг), крупна риба; візити 06-15 і 06-20
 - [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
+- [waters-klaj](wiki/waters-klaj.md) — Łowisko Kłaj: комерційне (без карти), ~30 км схід, карась/короп/амур, пріоритет під карася (не відвідував)
+- [waters-owczarnia](wiki/waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)
 
 ## Покупки й постачальники
 - [shopping](wiki/shopping.md) — куплено / в процесі / спробувати
