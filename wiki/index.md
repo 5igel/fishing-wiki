@@ -10,7 +10,7 @@
 - [gear-terminal](wiki/gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
 
 ## Техніка
-- [technique-rigging](wiki/technique-rigging.md) — оснастка, довжини, монтаж
+- [technique-rigging](wiki/technique-rigging.md) — оснастка, довжини, монтаж, донні комплекти (小跑铅/飞铅/跑铅)
 - [technique-ballasting](wiki/technique-ballasting.md) — огрузка: китайський/корейський стиль
 - [technique-knots](wiki/technique-knots.md) — в'язання, рвані повідці, виважування
 
