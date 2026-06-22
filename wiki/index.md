@@ -10,7 +10,7 @@
 - [gear-terminal](wiki/gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
 
 ## Техніка
-- [technique-rigging](wiki/technique-rigging.md) — оснастка, довжини, монтаж
+- [technique-rigging](wiki/technique-rigging.md) — оснастка, довжини, монтаж, донні комплекти (小跑铅/飞铅/跑铅)
 - [technique-ballasting](wiki/technique-ballasting.md) — огрузка: китайський/корейський стиль
 - [technique-knots](wiki/technique-knots.md) — в'язання, рвані повідці, виважування
 
@@ -19,8 +19,8 @@
 
 ## Водойми
 - [waters](wiki/waters.md) — місця ловлі (загальні нотатки + список місць)
-- [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, ~3.5 м, карась + лин, крупна риба
-- [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (5 zł); візити 06-12 і 06-19
+- [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см, ~3 кг), крупна риба; візити 06-15 і 06-20
+- [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
 
 ## Покупки й постачальники
 - [shopping](wiki/shopping.md) — куплено / в процесі / спробувати
