@@ -4,7 +4,7 @@
 Сергій · Краків, Польща · китайсько-корейський мах · 1 гачок · карась/лин/лящ на тісто.
 
 ## Спорядження
-- [gear-rods](wiki/gear-rods.md) — вудки: Moonlight 360, GOLDLITE 4.2
+- [gear-rods](wiki/gear-rods.md) — вудки: Moonlight 360, GOLDLITE 4.35 (приїхала)
 - [gear-floats](wiki/gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](wiki/gear-line.md) — ліска: основна, повідцева, нумерація
 - [gear-terminal](wiki/gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
