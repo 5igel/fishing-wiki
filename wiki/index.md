@@ -12,6 +12,7 @@
 ## Техніка
 - [technique-rigging](wiki/technique-rigging.md) — оснастка, довжини, монтаж, донні комплекти (小跑铅/飞铅/跑铅)
 - [technique-ballasting](wiki/technique-ballasting.md) — огрузка: китайський/корейський стиль
+- [technique-feeding](wiki/technique-feeding.md) — годівля/закорм на платних ставках (мало й часто; дрібняк)
 - [technique-knots](wiki/technique-knots.md) — в'язання, рвані повідці, виважування
 
 ## Риба
