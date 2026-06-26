@@ -31,4 +31,5 @@
 - [suppliers](wiki/suppliers.md) — магазини й оцінка
 
 ## Службове
+- [links](wiki/links.md) — корисні зовнішні посилання (відео/гайди за темами)
 - [log](wiki/log.md) — хронологія
