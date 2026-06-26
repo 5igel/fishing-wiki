@@ -1,5 +1,8 @@
 # Log
 
+## [2026-06-26] вішлист | Платформа/сидіння-ящик (seatbox) — варіанти у shopping
+Додано у [shopping](shopping.md) «Спробувати пізніше» блок платформи (помост для делікатної ловлі сидячи). Варіанти: **Matrix S36 Pro Seatbox Black Edition** (повна, Allegro), **Matrix XR36 Pro Accessory Chair** (крісло без шухляд, легше/дешевше, Allegro), **Matrix F25/P25 MK2** (UK-референс, £259.99, ноги 25 мм vs 36 мм у решти), **Decathlon CSB D36 Competition** (бюджетний аналог — дослідити відгуки, якість під питанням). Ціни Allegro/Decathlon — уточнити (сторінки не віддалися фетчу). Дорого й несрочно.
+
 ## [2026-06-26] службове | Сторінка корисних посилань
 Заведено [links](links.md) — збірник зовнішніх відео/гайдів за темами. Розділ «В'язання / монтаж»: (1) петлев'яз (TikTok @okrybachok); (2) гачков'язка для гачків з вушком (TikTok @fishingus8, під Kamasan B911 Eyed); (3) гачков'язка для гачків без вушка / spade-end (TikTok @fishingknotsfast). Бек-лінки з technique-knots і gear-terminal; оновлено index.
 
