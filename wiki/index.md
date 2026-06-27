@@ -20,7 +20,7 @@
 
 ## Водойми
 - [waters](wiki/waters.md) — місця ловлі (загальні нотатки + список місць)
-- [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см, ~3 кг), крупна риба; візити 06-15 і 06-20
+- [waters-kocierz](wiki/waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см, ~3 кг), крупна риба; візити 06-15, 06-20, 06-27
 - [waters-poddebem](wiki/waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
 - [waters-bobrowe](wiki/waters-bobrowe.md) — Łowisko Bobrowe Rozlewisko: комерційне (без карти), ~25 км, 2 ставки (Sport 4 га / Duży 17 га), ~2–2.5 м, карась/короп/амур; ✅ сподобалось, був 06-24 (спека, без улову)
 - [waters-owczarnia](wiki/waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)
