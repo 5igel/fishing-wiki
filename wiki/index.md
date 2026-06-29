@@ -7,6 +7,7 @@
 - [gear-rods](wiki/gear-rods.md) — вудки: Moonlight 360, GOLDLITE 4.35 (приїхала)
 - [gear-floats](wiki/gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](wiki/gear-line.md) — ліска: основна, повідцева, нумерація
+  - [gear/trabucco-tforce-xps-match-sinking-0255](gear/trabucco-tforce-xps-match-sinking-0255.md) — силова основна Trabucco 0.255 (7.95 кг) під бат TX3-533 (куплено 2026-06-29)
 - [gear-terminal](wiki/gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
 
 ## Техніка
