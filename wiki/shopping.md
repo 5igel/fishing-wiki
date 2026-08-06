@@ -68,6 +68,7 @@
 
 ### Фурнітура / термінал
 - **Вертлюги rolling swivel #10–12** (Owner/VMC — якісні) для глухої прив'язки
+- **Мікровертлюжки #20–24** (Mikado/Jaxon/Dragon) — під **модульну матчеву оснастку**: дрібні, пролазять крізь кільця матчівки (з тюльпаном), лишаються на основній назавжди. Тест #20 ≈ 7–9 кг · #22 ≈ 5–7 кг · #24 ≈ 4–5 кг. Перевіряти вушка на задирки → [technique-rigging](technique-rigging.md), [gear-terminal](gear-terminal.md)
 - **Конектор лінії → вершинка** — силіконовий «Line Connector / Tube Sleeves for Main Line», ~7,9–22 zł; шнур-петля під суцільний «китовий вус». ⚠️ Вставні «wklejka do bata» НЕ підходять → [gear-rods](gear-rods.md), [gear-terminal](gear-terminal.md)
 - **Силіконові стопорці space bean — розмір S** (під лісу 0.8–1.5 号 / 0.15–0.21 мм; набір S/M/L ~6,4 zł / 300 шт). ⚠️ Розмір за діаметром ліски, не «на око» → [gear-terminal](gear-terminal.md)
 - **Кембрики + стопори** (Stonfo/Colmic)
