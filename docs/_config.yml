@@ -1,0 +1,6 @@
+title: Рибальська вікі
+description: Персональна вікі про рибалку — ловиська, спорядження, техніка, улови
+theme: minima
+lang: uk
+# GitHub Pages сам вмикає плагіни: jekyll-optional-front-matter (рендерить .md без front-matter),
+# jekyll-relative-links (.md-лінки → .html), jekyll-titles-from-headings (заголовок з першого # H1).
