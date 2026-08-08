@@ -7,7 +7,7 @@
 - [gear-rods](gear-rods.md) — вудки: Moonlight 360; GOLDLITE 4.35 ❌ (зламана 2026-07-01); ✅ котушкова снасть Mikado NSC Power Match + Okuma Ceymar (дебют 07-06, відповідь на поломку)
 - [gear-floats](gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація
-  - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова основна Trabucco 0.255 (7.95 кг) під бат TX3-533 (куплено 2026-06-29)
+  - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова жила Trabucco 0.255 (7.95 кг) на котушці Okuma / сетап Mikado (куплено 2026-06-29)
 - [gear-terminal](gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
 
 ## Техніка
