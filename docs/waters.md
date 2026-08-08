@@ -10,6 +10,7 @@
 - [waters-klaj](waters-klaj.md) — ❌ Łowisko Kłaj — **відхилено**: виявилось вода PZW Okręg Tarnów (потрібна карта вендкарська), не їду
 
 ## Порівняння Kocierz vs Pod Dębem
+
 | | Kocierz | Pod Dębem |
 |---|---|---|
 | Тип | ставок | велике озеро |

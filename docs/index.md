@@ -8,7 +8,9 @@
   - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) ✅
   - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ❌ зламана 07-01
   - [gear-rod-mikado](gear-rod-mikado.md) — Mikado NSC Power Match 420 (матч) ✅ основна котушкова
+  - [gear-rod-rongyu-570](gear-rod-rongyu-570.md) — Rongyu «РОНЬЮ» 5.7 м (мах) ✅ основна хера-вудка
   - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
+  - [gear-rod-rongyu-270](gear-rod-rongyu-270.md) — Rongyu «РОНЬЮ» 2.7 м (мах) ✅ дитяча
   - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado
 - [gear-floats](gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація

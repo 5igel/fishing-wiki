@@ -3,14 +3,18 @@
 Кожна вудка/котушка має **окрему сторінку** за шаблоном (`templates/gear-rod.md`, `templates/gear-reel.md`).
 
 ## Вудки
+
 | Вудка | Тип | Статус | Роль | Сторінка |
 |---|---|---|---|---|
-| Goture Moonlight 360 | мах | ✅ робоча | делікатний дрібний карась | [gear-rod-moonlight](gear-rod-moonlight.md) |
-| Goture GOLDLITE «4.5» | мах | ❌ зламана 07-01 | була основна / силова | [gear-rod-goldlite](gear-rod-goldlite.md) |
+| Rongyu «РОНЬЮ» 5.7 м | мах | ✅ робоча | **основна хера-вудка** (мах) | [gear-rod-rongyu-570](gear-rod-rongyu-570.md) |
 | Mikado NSC Power Match 420 | матч | ✅ робоча | основна котушкова: короп/лин + херабуна | [gear-rod-mikado](gear-rod-mikado.md) |
+| Goture Moonlight 360 | мах | ✅ робоча | делікатний дрібний карась | [gear-rod-moonlight](gear-rod-moonlight.md) |
+| Rongyu «РОНЬЮ» 2.7 м | мах | ✅ дитяча | для дітей (Сергій не ловить) | [gear-rod-rongyu-270](gear-rod-rongyu-270.md) |
+| Goture GOLDLITE «4.5» | мах | ❌ зламана 07-01 | була основна / силова | [gear-rod-goldlite](gear-rod-goldlite.md) |
 | VDE-Robinson TX3 | bat | 🛒 опційна | силова (донний) | [gear-rod-tx3](gear-rod-tx3.md) |
 
 ## Котушки
+
 | Котушка | Тип | Статус | Пара | Сторінка |
 |---|---|---|---|---|
 | Okuma Ceymar XT Match (CXT-30MS) | матчева | ✅ вживана | Mikado | [gear-reel-okuma](gear-reel-okuma.md) |
