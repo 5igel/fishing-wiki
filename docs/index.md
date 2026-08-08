@@ -5,13 +5,14 @@
 
 ## Спорядження
 - [gear-rods](gear-rods.md) — **хаб вудок/котушок** (каталог + спільні принципи)
-  - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) ✅
-  - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ❌ зламана 07-01
-  - [gear-rod-mikado](gear-rod-mikado.md) — Mikado NSC Power Match 420 (матч) ✅ основна котушкова
   - [gear-rod-rongyu-570](gear-rod-rongyu-570.md) — Rongyu «РОНЬЮ» 5.7 м (мах) ✅ основна хера-вудка
-  - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
+  - [gear-rod-mikado-390](gear-rod-mikado-390.md) — Mikado NSC Power Match 390 (матч) ✅ поточна основна котушкова
+  - [gear-rod-mikado-420](gear-rod-mikado-420.md) — Mikado NSC Power Match 420 (матч) 🔧 гарант. ремонт (тюльпан)
+  - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ✅ робоча (відремонт.)
+  - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) 🔧 зламана (кінчик)
   - [gear-rod-rongyu-270](gear-rod-rongyu-270.md) — Rongyu «РОНЬЮ» 2.7 м (мах) ✅ дитяча
-  - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado
+  - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
+  - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado 390
 - [gear-floats](gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація
   - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова жила Trabucco 0.255 (7.95 кг) на котушці Okuma / сетап Mikado (куплено 2026-06-29)
@@ -28,7 +29,7 @@
 
 ## Водойми
 - [waters](waters.md) — місця ловлі (загальні нотатки + список місць)
-- [waters-kocierz](waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см) + осетр (74 см!), крупна риба; візити 06-15, 06-20, 06-27, 06-28, 07-01 (крупняк зламав GOLDLITE 4.5), 07-06 (6 риб на яму 2 м: 2 коропи до 54 см + 2 лини + 2 карасі, нова котушкова снасть Mikado+Okuma + херабуна)
+- [waters-kocierz](waters-kocierz.md) — Łowisko Kocierz: ставок, глибина залежить від точки (~3.5 м / ~1 м), карась + лин + короп (52 см) + осетр (74 см!), крупна риба; візити 06-15, 06-20, 06-27, 06-28, 07-01 (крупняк зламав коліно GOLDLITE — замінено), 07-06 (6 риб на яму 2 м: 2 коропи до 54 см + 2 лини + 2 карасі, нова котушкова снасть Mikado+Okuma + херабуна)
 - [waters-poddebem](waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
 - [waters-bobrowe](waters-bobrowe.md) — Łowisko Bobrowe Rozlewisko: комерційне (без карти), ~25 км, 2 ставки (Sport 4 га / Duży 17 га), ~2–2.5 м, карась/короп/амур; ✅ сподобалось, був 06-24 (спека, без улову)
 - [waters-owczarnia](waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)

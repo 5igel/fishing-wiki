@@ -20,7 +20,7 @@
 
 ## Оснастка під котушкову снасть (Mikado + Okuma, херабуна на ~2 м) ✅
 Реальний монтаж, дебют **2026-07-06** на [Kocierz](waters-kocierz.md) (яма ~2 м) — див. [gear-rods](gear-rods.md), [fish-log](fish-log.md):
-- **Жила (на котушці Okuma):** Trabucco T-Force XPS Match Sinking Super Heavy **0,255 мм / 7,95 кг** → [gear-line-trabucco-0255](gear-line-trabucco-0255.md).
+- **Жила (на котушці Okuma) — на дебюті 07-06:** Trabucco T-Force XPS Match Sinking Super Heavy **0,255 мм / 7,95 кг** → [gear-line-trabucco-0255](gear-line-trabucco-0255.md). ⏳ **Поточно (з ~липня, Mikado 390) жила — 0,203**; оновлений розклад оснастки Сергій надасть окремо.
 - **Оснастка (робоча секція):** **2.5 м** на тій самій 0,255, з поплавком **Ultra-Long Balsa (~2.91 г)** → [gear-floats](gear-floats.md).
 - **Повідець:** Trabucco T-Force XPS Sinking Plus (Tournament Class) **0,203 мм / 5,3 кг** — слабший за жилу → рветься повідець, не вся оснастка ([gear-line](gear-line.md), правило 1).
 - ⚠️ **Довжина оснастки тут НЕ прив'язана до довжини вудки** (це котушкова снасть, ліска йде крізь кільця), на відміну від маху нижче. 2.5 м оснастки під ~2 м глибини — херабуна-логіка (робоча секція трохи довша за глибину).

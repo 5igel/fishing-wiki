@@ -7,12 +7,13 @@
 ## ✅ Куплено / є
 
 ### Вудки
-- **Goture Moonlight 360** — поточна делікатна → [gear-rod-moonlight](gear-rod-moonlight.md)
-- **Goture GOLDLITE «4.5»** (була основна) — ❌ **зламана 2026-07-01** (форсування крупняка на Kocierz; оснастка трималась, бланк — ні). Можливий ремонт заміною верхнього коліна (3 запаски), якщо зламалось саме воно — уточнити → [gear-rod-goldlite](gear-rod-goldlite.md)
-- **Mikado NSC Power Match 420 см** (матчівка, тест 5–30 г, параболічна) — ✅ **нова котушкова снасть**, дебют 2026-07-06 (Kocierz). Spigot-збір: зазор ~1 см, не виганяти силою → [gear-rod-mikado](gear-rod-mikado.md)
 - **Rongyu «РОНЬЮ» 5.7 м** (мах, TORAY 19T) — ✅ куплено; **основна хера-вудка** Сергія, тягне карпа ~40 см → [gear-rod-rongyu-570](gear-rod-rongyu-570.md)
+- **Mikado NSC Power Match 390 см** (матчівка) — ✅ куплено на заміну 420; **поточна основна котушкова**, ловить останній місяць → [gear-rod-mikado-390](gear-rod-mikado-390.md)
+- **Mikado NSC Power Match 420 см** (матчівка, тест 5–30 г, параболічна) — 🔧 **на гарантійному ремонті** (зламався тюльпан); дебют 2026-07-06 → [gear-rod-mikado-420](gear-rod-mikado-420.md)
+- **Goture GOLDLITE «4.5»** — ✅ **робоча (відремонтована)**: 2026-07-01 зламав **2-ге коліно** на форсуванні, замінив запасним → [gear-rod-goldlite](gear-rod-goldlite.md)
+- **Goture Moonlight 360** — 🔧 **зламана** (кінчик тріснув при зборі), чекає на новий кінчик → [gear-rod-moonlight](gear-rod-moonlight.md)
 - **Rongyu «РОНЬЮ» 2.7 м** (мах, TORAY 30T+40T, 42 г) — ✅ куплено, **1100 грн**; **дитяча** (Сергій сам не ловить) → [gear-rod-rongyu-270](gear-rod-rongyu-270.md)
-- **Okuma Ceymar XT Match FD (CXT-30MS)** — ✅ котушка (вживана), розмір 3000, мілка матчева шпуля, 6.2:1, **передній фрикціон**. Пара до Mikado → [gear-reel-okuma](gear-reel-okuma.md). Жила намотана — **Trabucco 0,255 (7,95 кг)**; повідець 0,203; оснастка 2.5 м + балса 2.91 г → [technique-rigging](technique-rigging.md), [gear-line](gear-line.md)
+- **Okuma Ceymar XT Match FD (CXT-30MS)** — ✅ котушка (вживана), розмір 3000, мілка матчева шпуля, 6.2:1, **передній фрикціон**. Пара до [Mikado 390](gear-rod-mikado-390.md). **Поточна жила — Trabucco 0,203** (⏳ деталі оснастки Сергій надасть; на дебюті 07-06 була 0,255) → [technique-rigging](technique-rigging.md), [gear-line](gear-line.md)
 
 ### Поплавці
 - **XM серія** (AliExpress, 2026-06-23): **XM-02 1.3 г ×5 + XM-03 1.5 г ×5** — закриває легкий 1.0–1.5 г → [gear-floats](gear-floats.md)
