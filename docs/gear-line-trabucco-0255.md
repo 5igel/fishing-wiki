@@ -1,6 +1,6 @@
 # Trabucco T-Force XPS Match Sinking Super Heavy 0.255
 
-Силова основна волосінь (**жила**). Куплена **2026-06-29** за **35 zł** — спершу під бат [TX3-533](gear-rod-tx3.md), потім стала **жилою на котушці [Okuma Ceymar](gear-reel-okuma.md)** (сетап [Mikado](gear-rod-mikado-420.md)) на **дебюті 2026-07-06** ([Kocierz](waters-kocierz.md)). ⚠️ **Станом на ~08 поточна жила на котушці — 0,203, не 0,255** (жилу змінено; статус/призначення 0,255 зараз — Сергій уточнить). Загальна сторінка лісок → [gear-line](gear-line.md).
+Силова основна волосінь (**жила**). Куплена **2026-06-29** за **35 zł** — спершу під бат [TX3-533](gear-rod-tx3.md), потім стала **жилою на котушці [Okuma Ceymar](gear-reel-okuma.md)** (сетап [Mikado](gear-rod-mikado-420.md)) на **дебюті 2026-07-06** ([Kocierz](waters-kocierz.md)). ⚠️ **Знята з котушки (~08):** товщина + память 0,255 → **погано сходила з котушки й гальмувала при закиданні** на малих кільцях Mikado → замінена на **0,203** ([gear-line](gear-line.md), [technique-rigging](technique-rigging.md)). Зараз **не в активному ужитку**; резерв під **bat [TX3](gear-rod-tx3.md)** (без кілець/котушки — там сходження/память не проблема). Загальна сторінка лісок → [gear-line](gear-line.md).
 
 ## Параметри
 - **Бренд / серія:** Trabucco · T-Force XPS · Match Sinking Super Heavy
