@@ -1,6 +1,6 @@
 # Trabucco T-Force XPS Match Sinking Super Heavy 0.255
 
-Силова основна волосінь (**жила**). Куплена **2026-06-29** за **35 zł** — спершу під бат [TX3-533](gear-rods.md), але **фактично живе на котушці [Okuma Ceymar](gear-rods.md)** (сетап Mikado NSC Power Match), дебют **2026-07-06** ([Kocierz](waters-kocierz.md)). Загальна сторінка лісок → [gear-line](gear-line.md).
+Силова основна волосінь (**жила**). Куплена **2026-06-29** за **35 zł** — спершу під бат [TX3-533](gear-rod-tx3.md), але **фактично живе на котушці [Okuma Ceymar](gear-reel-okuma.md)** (сетап [Mikado NSC Power Match](gear-rod-mikado.md)), дебют **2026-07-06** ([Kocierz](waters-kocierz.md)). Загальна сторінка лісок → [gear-line](gear-line.md).
 
 ## Параметри
 - **Бренд / серія:** Trabucco · T-Force XPS · Match Sinking Super Heavy

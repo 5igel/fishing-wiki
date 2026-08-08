@@ -4,7 +4,12 @@
 Сергій · Краків, Польща · китайсько-корейський мах · 1 гачок · тісто. Фактичний улов зараз: короп, лящ, підлящик, густера, синець (карась — найменше).
 
 ## Спорядження
-- [gear-rods](gear-rods.md) — вудки: Moonlight 360; GOLDLITE 4.35 ❌ (зламана 2026-07-01); ✅ котушкова снасть Mikado NSC Power Match + Okuma Ceymar (дебют 07-06, відповідь на поломку)
+- [gear-rods](gear-rods.md) — **хаб вудок/котушок** (каталог + спільні принципи)
+  - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) ✅
+  - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ❌ зламана 07-01
+  - [gear-rod-mikado](gear-rod-mikado.md) — Mikado NSC Power Match 420 (матч) ✅ основна котушкова
+  - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
+  - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado
 - [gear-floats](gear-floats.md) — поплавці: діапазони, переглянуті серії
 - [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація
   - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова жила Trabucco 0.255 (7.95 кг) на котушці Okuma / сетап Mikado (куплено 2026-06-29)
