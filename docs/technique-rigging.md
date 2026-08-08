@@ -53,12 +53,12 @@
 
 | # | Стиль | Поплавець |
 |---|---|---|
-| 1 | корея (донний) | бальза Ultra-Long ~2.91 г |
-| 2 | корея | XM-02 (1.3 г) |
-| 3 | корея | XM-03 (1.5 г) |
-| 4 | корея | FW-06 ⏳ (опис пізніше) |
-| 5 | китай (в товщі) | XM-02 (1.3 г) |
-| 6 | китай | XM-03 (1.5 г) |
+| 1 | корея (донний) | [бальза Ultra-Long ~2.91 г](gear-float-balsa.md) |
+| 2 | корея | [XM-02 (1.3 г)](gear-float-xm02.md) |
+| 3 | корея | [XM-03 (1.5 г)](gear-float-xm03.md) |
+| 4 | корея | [Meiyan FW-06 (2.6 г)](gear-float-fw06.md) |
+| 5 | китай (в товщі) | [XM-02 (1.3 г)](gear-float-xm02.md) |
+| 6 | китай | [XM-03 (1.5 г)](gear-float-xm03.md) |
 
 → поплавці [gear-floats](gear-floats.md); стилі корея/китай → [technique-ballasting](technique-ballasting.md).
 

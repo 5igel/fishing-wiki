@@ -13,7 +13,11 @@
   - [gear-rod-rongyu-270](gear-rod-rongyu-270.md) — Rongyu «РОНЬЮ» 2.7 м (мах) ✅ дитяча
   - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
   - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado 390
-- [gear-floats](gear-floats.md) — поплавці: діапазони, переглянуті серії
+- [gear-floats](gear-floats.md) — **хаб поплавців** (каталог + цільові параметри, корективи, переглянуті серії)
+  - [gear-float-xm02](gear-float-xm02.md) — XM-02 (1.3 г) ✅ делікатна мілина
+  - [gear-float-xm03](gear-float-xm03.md) — XM-03 (1.5 г) ✅ середня глибина
+  - [gear-float-balsa](gear-float-balsa.md) — Ultra-Long Balsa (2.91 г) ✅ глибина/вітер
+  - [gear-float-fw06](gear-float-fw06.md) — Meiyan FW-06 (2.6 г) ✅ навантажений/делікатний
 - [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація
   - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова жила Trabucco 0.255 (7.95 кг) на котушці Okuma / сетап Mikado (куплено 2026-06-29)
 - [gear-terminal](gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
