@@ -1,11 +1,18 @@
 title: Рибальська вікі
 description: Персональна вікі про рибалку — ловиська, спорядження, техніка, улови
-theme: minima
 lang: uk
 
-# Прибрати автоменю зверху (minima інакше тягне туди ВСІ сторінки).
-# Порожній список = меню нема; лишається лише клікабельний заголовок (веде на головну).
-# Хочеш кілька ключових пунктів — впиши сюди, напр.: [index.md, shopping.md, log.md]
-header_pages: []
-# GitHub Pages сам вмикає плагіни: jekyll-optional-front-matter (рендерить .md без front-matter),
+# Тема для вікі: ліва бічна навігація по всіх сторінках + пошук по сайту.
+# (remote_theme працює на GitHub Pages через штатний плагін jekyll-remote-theme)
+remote_theme: just-the-docs/just-the-docs
+
+# Пошук по сайту (з коробки в just-the-docs)
+search_enabled: true
+
+# Клікабельні якорі біля заголовків
+heading_anchors: true
+
+# GitHub Pages сам вмикає: jekyll-optional-front-matter (рендерить .md без front-matter),
 # jekyll-relative-links (.md-лінки → .html), jekyll-titles-from-headings (заголовок з першого # H1).
+# Порядок пунктів у сайдбарі — за абеткою заголовків (без front-matter). Хочеш інший порядок —
+# додамо сторінкам мінімальне front-matter з nav_order.
