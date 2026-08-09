@@ -37,6 +37,7 @@
 - [waters-poddebem](waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
 - [waters-bobrowe](waters-bobrowe.md) — Łowisko Bobrowe Rozlewisko: комерційне (без карти), ~25 км, 2 ставки (Sport 4 га / Duży 17 га), ~2–2.5 м, карась/короп/амур; ✅ сподобалось, був 06-24 (спека, без улову)
 - [waters-owczarnia](waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)
+- [waters-bonarka](waters-bonarka.md) — Озеро Бонарка (Краків): локальне; ранковий лящ (2×~40 см + ~6 підлящів, 08-09) на Rongyu 5.7 хера; режим ⏳
 - [waters-klaj](waters-klaj.md) — ❌ Łowisko Kłaj: відхилено (виявилось вода PZW Okręg Tarnów, потрібна карта вендкарська)
 
 ## Покупки й постачальники
