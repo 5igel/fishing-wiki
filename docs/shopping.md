@@ -26,8 +26,8 @@
 - **Daiwa Prorex FC Leader Super** 0,16 мм / 50 м (флюр, #1.0) — повідцева; єдиний флюр — 27,45 zł → [gear-line](gear-line.md)
 
 ### Гачки
-- **Kamasan B911 Eyed Barbless №12** (безбородий, з вушком) — 10,36 zł → [gear-terminal](gear-terminal.md)
-- **Kamasan DS911 Wide Gape Barbless №10** (безбородий, широке піддівало) — 13,62 zł → [gear-terminal](gear-terminal.md)
+- **Kamasan B911 X Eyed №10–16** — готові повідці: **№10/№12 на жилці 0,181 (#1.2)**, **№14/№16 на жилці 0,162 (#1.0)** → [gear-terminal](gear-terminal.md)
+- *(раніше значились B911 Eyed №12 — 10,36 zł + DS911 Wide Gape №10 — 13,62 zł; ⏳ чи ще в ужитку)*
 
 ### Оснастки
 - **Готові махові оснастки (без поплавців)** — 2026-06-23; основа з фурнітурою, ще треба **огрузити разом з поплавцями** → [technique-ballasting](technique-ballasting.md)
