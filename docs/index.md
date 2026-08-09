@@ -38,7 +38,7 @@
 - [waters-bobrowe](waters-bobrowe.md) — Łowisko Bobrowe Rozlewisko: комерційне (без карти), ~25 км, 2 ставки (Sport 4 га / Duży 17 га), ~2–2.5 м, карась/короп/амур; ✅ сподобалось, був 06-24 (спека, без улову)
 - [waters-owczarnia](waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)
 - [waters-bonarka](waters-bonarka.md) — Озеро Бонарка (Краків): локальне; ранковий лящ (2×~40 см + ~6 підлящів, 08-09) на Rongyu 5.7 хера; режим ⏳
-- [waters-klaj](waters-klaj.md) — Łowisko Kłaj (PZW Okręg Tarnów): ✅ потенційне (карта не потрібна, лише дозвіл), ~30 км біля A4, є карась
+- [waters-klaj](waters-klaj.md) — Łowisko Kłaj / жвировня PZW Tarnów: ✅ потенційне (дозвіл ~60 zł/день онлайн, без карти), ~30 км біля A4, лин+карась+лящ
 
 ## Покупки й постачальники
 - [shopping](shopping.md) — куплено / в процесі / спробувати
