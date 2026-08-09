@@ -23,7 +23,8 @@
 ### Ліска
 - **Trabucco T-Force XPS Match Sinking Super Heavy 0,255** (≈#2.5, **7,95 кг**, 150 м) — **жила на котушці Okuma** (сетап Mikado, дебют 07-06); *(бралась колись під bat TX3 — тепер живе на котушці)*; 2026-06-29, 35 zł → [gear-line-trabucco-0255](gear-line-trabucco-0255.md)
 - **Trabucco T-Force XPS Sinking Plus (Tournament Class)** 0,203 мм / 150 м (#1.5, 5,3 кг) — основна силова (під Moonlight/GOLDLITE); 2026-06-20 (варіант *Sinking Plus*, бо *Match* у магазині не було) → [gear-line](gear-line.md)
-- **Daiwa Prorex FC Leader Super** 0,16 мм / 50 м (флюр, #1.0) — повідцева; єдиний флюр — 27,45 zł → [gear-line](gear-line.md)
+- **Trabucco T-Force XPS Match Strong** (повідцева серія) — **0,162 (#1.0)** + **0,181 (#1.2)**; на ній готові гачкові набори Kamasan B911 X → [gear-line](gear-line.md), [gear-terminal](gear-terminal.md)
+- **Daiwa Prorex FC Leader Super** 0,16 мм / 50 м (флюр, #1.0) — повідцева під тертя; єдиний флюр — 27,45 zł → [gear-line](gear-line.md)
 
 ### Гачки
 - **Kamasan B911 X Eyed №10–16** — готові повідці: **№10/№12 на жилці 0,181 (#1.2)**, **№14/№16 на жилці 0,162 (#1.0)** → [gear-terminal](gear-terminal.md)
