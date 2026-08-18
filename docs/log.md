@@ -1,5 +1,8 @@
 # Log
 
+## [2026-08-18] покупки+техніка | Перший фідер-сетап: Intro II Picker 270 + running rig
+Куплено на sklepdrapieznik.pl (~211 zł): Mikado Intro II Picker 270/40g (129 г, вершинки 0.75/1.0/1.5oz) + клітки Jaxon z dnem 10–20 г + MatchPro Total Feeder ×3 + Korda Marker Elastic + Flagman Swivel Stop Beads M (вертлюг+бусина 2-в-1) + B911 №16 barbless ×2 (під херу). **Одна Okuma на 2 вудки** (390 ↔ пікер) → монтаж універсальний: фідер-модуль (running rig) входить у модульну систему петля-в-петлю нарівні з підпасками: [петля → 0,203×50–60 см → ковзна agrafка з кліткою → Flagman stop bead → повідець 0,162/50 → B911 №12]. Повідці в'яжу сам на 0,162. Дистанція: кліпса + маркерна гумка (подвійна фіксація). Відхилено: feeder gum, antytwist, маркерний груз. Вивчено: петля Гарднера (аварійний/течія). Прикормка MatchPro в клітку; Old Ghost лишаються хера-стилю. У shopping додано Daiwa 24 TDR Match & Feeder QD (3012 vs 4012) як майбутня друга котушка. Нові сторінки: gear-rod-mikado-picker; оновлено gear-rods, gear-reel-okuma, index, technique-rigging, shopping.
+
 ## [2026-08-16] сесія | Kocierz 7:00–12:00 — карась 740 г на кукурудзу
 1 риба за 5 годин на [Kocierz](waters-kocierz.md) (котушка + [Mikado 390](gear-rod-mikado-390.md)): **карась ~740 г** на **кукурудзу**. Вперше застосовано **тісто на свинці як закорм** (пиляще тісто на грузилі) при кукурудзі на гачку. **Перше точне зважування** риби у вікі: 1.32 кг разом із головою підсака − **тара 580 г** (Preston Carp XS 24", P0140052) → додано в [gear-terminal](gear-terminal.md). Фото `raw/IMG_9814.jpeg` ⏳ (ще не в raw/). Оновлено waters-kocierz, fish-log, index.
 

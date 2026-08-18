@@ -8,6 +8,7 @@
   - [gear-rod-rongyu-570](gear-rod-rongyu-570.md) — Rongyu «РОНЬЮ» 5.7 м (мах) ✅ основна хера-вудка
   - [gear-rod-mikado-390](gear-rod-mikado-390.md) — Mikado NSC Power Match 390 (матч) ✅ поточна основна котушкова
   - [gear-rod-mikado-420](gear-rod-mikado-420.md) — Mikado NSC Power Match 420 (матч) 🔧 гарант. ремонт (тюльпан)
+  - [gear-rod-mikado-picker](gear-rod-mikado-picker.md) — Mikado Intro II Picker 270 ✅ перша донна (фідер 10–15 м)
   - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ✅ робоча (відремонт.)
   - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) 🔧 зламана (кінчик)
   - [gear-rod-rongyu-270](gear-rod-rongyu-270.md) — Rongyu «РОНЬЮ» 2.7 м (мах) ✅ дитяча
