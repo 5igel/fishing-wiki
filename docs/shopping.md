@@ -14,6 +14,8 @@
 - **Goture Moonlight 360** — 🔧 **зламана** (кінчик тріснув при зборі), чекає на новий кінчик → [gear-rod-moonlight](gear-rod-moonlight.md)
 - **Rongyu «РОНЬЮ» 2.7 м** (мах, TORAY 30T+40T, 42 г) — ✅ куплено, **1100 грн**; **дитяча** (Сергій сам не ловить) → [gear-rod-rongyu-270](gear-rod-rongyu-270.md)
 - **Mikado Intro II Picker 270 (WAA1009-270)** — ✅ куплено 2026-08-18, **119 zł** (sklepdrapieznik.pl); **перша донна** (фідер 10–15 м) → [gear-rod-mikado-picker](gear-rod-mikado-picker.md)
+- **Flagman Armadale Basic 2025 Feeder 3,60 m / 100 g** — ✅ куплено 2026-08-28 (ціна/магазин ⏳); вершинки 1/2/3 oz; **дистанційний фідер 35–50 м** — закриває урок [Kuter Port 08-23](waters-kuterport.md); дебют 2026-09-06 → [gear-rod-flagman-armadale](gear-rod-flagman-armadale.md)
+- **Daiwa 24 N'ZON PLUS LT 5000S-CP** — ✅ куплено 2026-08-28 (ціна ⏳); 4.7:1; фідерна котушка до Armadale, **2 шпулі** (монка 0,251 / шнур 0,10 + шок-лідер). ❗ Куплена **замість** вішлистної Daiwa TDR → [gear-reel-daiwa-nzon](gear-reel-daiwa-nzon.md)
 - **Okuma Ceymar XT Match FD (CXT-30MS)** — ✅ котушка (вживана), розмір 3000, мілка матчева шпуля, 6.2:1, **передній фрикціон**. Пара до [Mikado 390](gear-rod-mikado-390.md) **і [пікера](gear-rod-mikado-picker.md)** (одна на 2 вудки). **Поточна жила — Trabucco 0,203** → [technique-rigging](technique-rigging.md), [gear-line](gear-line.md)
 
 ### Поплавці (усі ✅ є → каталог [gear-floats](gear-floats.md))
@@ -26,6 +28,8 @@
 - **Trabucco T-Force XPS Sinking Plus (Tournament Class)** 0,203 мм / 150 м (#1.5, 5,3 кг) — основна силова (під Moonlight/GOLDLITE); 2026-06-20 (варіант *Sinking Plus*, бо *Match* у магазині не було) → [gear-line](gear-line.md)
 - **Trabucco T-Force XPS Match Strong** (повідцева серія) — **0,162 (#1.0)** + **0,181 (#1.2)**; на ній готові гачкові набори Kamasan B911 X → [gear-line](gear-line.md), [gear-terminal](gear-terminal.md)
 - **Daiwa Prorex FC Leader Super** 0,16 мм / 50 м (флюр, #1.0) — повідцева під тертя; єдиний флюр — 27,45 zł → [gear-line](gear-line.md)
+- **Trabucco T-Force XPS Feeder Plus 0,251 мм / 150 м** — ✅ (до 2026-09-06, ціна ⏳); фідерна монка на шпулі 1 N'ZON + шок-лідер на шпулі 2 → [gear-line](gear-line.md)
+- **Matrix Submerge Braid 0,10 мм** — ✅ (до 2026-09-06, ціна ⏳); тонучий фідерний шнур, шпуля 2 N'ZON (з шок-лідером 0,251) → [gear-line](gear-line.md)
 
 ### Гачки
 - **Kamasan B911 X Eyed №10–16** — готові повідці: **№10/№12 на жилці 0,181 (#1.2)**, **№14/№16 на жилці 0,162 (#1.0)** → [gear-terminal](gear-terminal.md)
@@ -36,13 +40,16 @@
 - **Готові махові оснастки (без поплавців)** — 2026-06-23; основа з фурнітурою, ще треба **огрузити разом з поплавцями** → [technique-ballasting](technique-ballasting.md)
 
 ### Прикормка
-- **MatchPro Total 1kg FEEDER (Karp/Leszcz/Lin/Karaś) ×3** — 24,98 zł (2026-08-18); **фідерна** прикормка (Old Ghost лишаються під херабуну) → [technique-rigging](technique-rigging.md), [technique-feeding](technique-feeding.md)
+- **MatchPro Total 1kg FEEDER (Karp/Leszcz/Lin/Karaś) ×3** — 24,98 zł (2026-08-18); **фідерна** прикормка (Old Ghost лишаються під херабуну); витрачено ≥1 кг 08-18/19/23 + 1 кг 09-06 → [technique-rigging](technique-rigging.md), [technique-feeding](technique-feeding.md)
+- **Traper Karmel (атрактор)** — ✅ (до 2026-09-06, ціна ⏳); у суху суміш MatchPro → [technique-feeding](technique-feeding.md)
+- **Sonubaits Absolute Liquid — Salted Caramel** — ✅ (до 2026-09-06, ціна ⏳); ліквід у годівницю / діп → [technique-feeding](technique-feeding.md)
 
 ### Фурнітура / термінал
 - **Krętlik Jaxon швидкозйом AC-356416 ×2** — швидка заміна всієї оснастки — 8,36 zł → [gear-terminal](gear-terminal.md)
 - **Клітки Jaxon okrągły z dnem 10 / 15×2 / 20 г** (AW-OB010/015/020) — 15,26 zł (2026-08-18); під фідер-модуль (корм не висипається при ударі об воду) → [technique-rigging](technique-rigging.md)
 - **Flagman Swivel Stop Beads M ×2 пак. (10 шт)** — 9,59 zł (2026-08-18); вертлюг+бусина 2-в-1 під running rig
 - **Korda Marker Elastic 6m** — 21 zł (2026-08-18); маркування дистанції (резерв кліпси)
+- **Годівниці 30–60 г, різні конфігурації** — ✅ (до 2026-09-06, моделі/ціна ⏳); під Armadale 3,60/100 → [gear-terminal](gear-terminal.md)
 
 ### Інструменти / аксесуари
 - **Гачков'язка (Full Metal Hook Tier, AliExpress ~10 zł)** — ✅ куплено → [technique-knots](technique-knots.md)
@@ -63,7 +70,8 @@
   - Довжина vs темп: 6 м дає дистанцію, але важче в активному маху (той самий компроміс, що з відмовою від GOLDLITE 5.4); жодна поточна точка ще не вимагала >5 м → [waters](waters.md).
 
 ### Котушки
-- **Daiwa 24 TDR Match & Feeder QD** — друга котушка: розв'язка «одна Okuma на 2 вудки» (390 ↔ пікер). Варіанти: **3012 QD** ([sklepdrapieznik](https://sklepdrapieznik.pl/93472-kolowrotek-daiwa-24-tdr-match-amp-feeder-3012-qd.html)) або **4012 QD** (більша шпуля → далі кидає, важча). ⚠️ Перед покупкою: перевірити комплектацію шпуль (чи дві, чи різної глибини); QD = Quick Drag. Розмір під задачу: 3012 (легша, пара до пікера/390) vs 4012 (запас під дальній фідер) → [gear-reel-okuma](gear-reel-okuma.md)
+- ✅ **Друга котушка — ЗАКРИТО (Daiwa 24 N'ZON PLUS LT 5000S-CP, див. «Куплено»)** — замість розглянутої TDR; проблема «одна Okuma на 2 вудки» знята: Okuma → Mikado 390 / пікер, N'ZON → Armadale.
+- ~~**Daiwa 24 TDR Match & Feeder QD**~~ (архів вішлиста) — друга котушка: розв'язка «одна Okuma на 2 вудки» (390 ↔ пікер). Варіанти: **3012 QD** ([sklepdrapieznik](https://sklepdrapieznik.pl/93472-kolowrotek-daiwa-24-tdr-match-amp-feeder-3012-qd.html)) або **4012 QD** (більша шпуля → далі кидає, важча). ⚠️ Перед покупкою: перевірити комплектацію шпуль (чи дві, чи різної глибини); QD = Quick Drag. Розмір під задачу: 3012 (легша, пара до пікера/390) vs 4012 (запас під дальній фідер) → [gear-reel-okuma](gear-reel-okuma.md)
 
 ### Докупити офлайн
 - **Кукурудза** (+ опційно опарик) — насадка/докорм під фідер.

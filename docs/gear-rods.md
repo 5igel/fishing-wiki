@@ -9,7 +9,8 @@
 | Rongyu «РОНЬЮ» 5.7 м | мах | ✅ робоча | **основна хера-вудка** (мах) | [gear-rod-rongyu-570](gear-rod-rongyu-570.md) |
 | Mikado NSC Power Match 390 | матч | ✅ робоча | **поточна основна котушкова**: короп/лин + херабуна | [gear-rod-mikado-390](gear-rod-mikado-390.md) |
 | Mikado NSC Power Match 420 | матч | 🔧 гарант. ремонт | тюльпан → заміна 390 | [gear-rod-mikado-420](gear-rod-mikado-420.md) |
-| Mikado Intro II Picker 270 | picker | ✅ робоча | **перша донна: фідер 10–15 м** | [gear-rod-mikado-picker](gear-rod-mikado-picker.md) |
+| Mikado Intro II Picker 270 | picker | ✅ робоча | **ближній фідер 10–15 м** (макс ~24–30 м) | [gear-rod-mikado-picker](gear-rod-mikado-picker.md) |
+| Flagman Armadale Basic 2025 Feeder 3,60 / 100 г | фідер | ✅ робоча | **дистанційний фідер 35–50 м** (дебют 09-06) | [gear-rod-flagman-armadale](gear-rod-flagman-armadale.md) |
 | Goture GOLDLITE «4.5» | мах | ✅ робоча (відремонт.) | силова мах-хера (2-га/запасна) | [gear-rod-goldlite](gear-rod-goldlite.md) |
 | Goture Moonlight 360 | мах | 🔧 зламана (кінчик) | делікатний дрібний карась | [gear-rod-moonlight](gear-rod-moonlight.md) |
 | Rongyu «РОНЬЮ» 2.7 м | мах | ✅ дитяча | для дітей (Сергій не ловить) | [gear-rod-rongyu-270](gear-rod-rongyu-270.md) |
@@ -19,7 +20,8 @@
 
 | Котушка | Тип | Статус | Пара | Сторінка |
 |---|---|---|---|---|
-| Okuma Ceymar XT Match (CXT-30MS) | матчева | ✅ вживана | Mikado 390 | [gear-reel-okuma](gear-reel-okuma.md) |
+| Okuma Ceymar XT Match (CXT-30MS) | матчева | ✅ вживана | Mikado 390 (+ пікер) | [gear-reel-okuma](gear-reel-okuma.md) |
+| Daiwa 24 N'ZON PLUS LT 5000S-CP | фідерна | ✅ нова | Flagman Armadale 3,60; 2 шпулі (монка 0,251 / шнур 0,10 + шок-лідер) | [gear-reel-daiwa-nzon](gear-reel-daiwa-nzon.md) |
 
 ## Спільні принципи
 

@@ -8,25 +8,27 @@
   - [gear-rod-rongyu-570](gear-rod-rongyu-570.md) — Rongyu «РОНЬЮ» 5.7 м (мах) ✅ основна хера-вудка
   - [gear-rod-mikado-390](gear-rod-mikado-390.md) — Mikado NSC Power Match 390 (матч) ✅ поточна основна котушкова
   - [gear-rod-mikado-420](gear-rod-mikado-420.md) — Mikado NSC Power Match 420 (матч) 🔧 гарант. ремонт (тюльпан)
-  - [gear-rod-mikado-picker](gear-rod-mikado-picker.md) — Mikado Intro II Picker 270 ✅ перша донна (фідер 10–15 м)
+  - [gear-rod-mikado-picker](gear-rod-mikado-picker.md) — Mikado Intro II Picker 270 ✅ ближній фідер 10–15 м (макс ~24–30)
+  - [gear-rod-flagman-armadale](gear-rod-flagman-armadale.md) — Flagman Armadale Basic 2025 Feeder 3,60/100 г ✅ **дистанційний фідер 35–50 м** (дебют 09-06)
   - [gear-rod-goldlite](gear-rod-goldlite.md) — Goture GOLDLITE 4.5 (мах, силова) ✅ робоча (відремонт.)
   - [gear-rod-moonlight](gear-rod-moonlight.md) — Goture Moonlight 360 (мах, делікатна) 🔧 зламана (кінчик)
   - [gear-rod-rongyu-270](gear-rod-rongyu-270.md) — Rongyu «РОНЬЮ» 2.7 м (мах) ✅ дитяча
   - [gear-rod-tx3](gear-rod-tx3.md) — VDE-Robinson TX3 (bat) 🛒 опційна
-  - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado 390
+  - [gear-reel-okuma](gear-reel-okuma.md) — Okuma Ceymar XT Match (котушка) ✅ пара до Mikado 390 / пікера
+  - [gear-reel-daiwa-nzon](gear-reel-daiwa-nzon.md) — Daiwa 24 N'ZON PLUS LT 5000S-CP (котушка) ✅ пара до Armadale; 2 шпулі: монка 0,251 / шнур 0,10 + шок-лідер
 - [gear-floats](gear-floats.md) — **хаб поплавців** (каталог + цільові параметри, корективи, переглянуті серії)
   - [gear-float-xm02](gear-float-xm02.md) — XM-02 (1.3 г) ✅ делікатна мілина
   - [gear-float-xm03](gear-float-xm03.md) — XM-03 (1.5 г) ✅ середня глибина
   - [gear-float-balsa](gear-float-balsa.md) — Ultra-Long Balsa (2.91 г) ✅ глибина/вітер
   - [gear-float-fw06](gear-float-fw06.md) — Meiyan FW-06 (2.6 г) ✅ навантажений/делікатний
-- [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація
+- [gear-line](gear-line.md) — ліска: основна, повідцева, нумерація; фідерні Trabucco Feeder Plus 0,251 + шнур Matrix Submerge 0,10 (09-06)
   - [gear-line-trabucco-0255](gear-line-trabucco-0255.md) — силова жила Trabucco 0.255 (7.95 кг) на котушці Okuma / сетап Mikado (куплено 2026-06-29)
-- [gear-terminal](gear-terminal.md) — гачки, вертлюги, фурнітура, інструменти
+- [gear-terminal](gear-terminal.md) — гачки, вертлюги, фурнітура, годівниці (клітки 10–20 г / 30–60 г), інструменти
 
 ## Техніка
 - [technique-rigging](technique-rigging.md) — оснастка, довжини, монтаж, модульна матчева (знімна груз-секція), транспортування, донні комплекти (малий пробіг/летючий свинець/пробіг)
 - [technique-ballasting](technique-ballasting.md) — огрузка: китайський/корейський стиль
-- [technique-feeding](technique-feeding.md) — годівля/закорм на платних ставках (мало й часто; дрібняк)
+- [technique-feeding](technique-feeding.md) — годівля/закорм на платних ставках (мало й часто; дрібняк) + фідер: MatchPro + Traper Karmel + ліквід Sonubaits
 - [technique-knots](technique-knots.md) — в'язання, рвані повідці, виважування, конектор-подовжувач
 
 ## Риба
@@ -39,9 +41,9 @@
 - [waters-poddebem](waters-poddebem.md) — Łowisko «Pod Dębem»: озеро, лящ/густера, дешевше, мат обов'язковий (тепер свій); візити 06-12 і 06-19
 - [waters-bobrowe](waters-bobrowe.md) — Łowisko Bobrowe Rozlewisko: комерційне (без карти), ~25 км, 2 ставки (Sport 4 га / Duży 17 га), ~2–2.5 м, карась/короп/амур; ✅ сподобалось, був 06-24 (спека, без улову)
 - [waters-owczarnia](waters-owczarnia.md) — Łowisko Owczarnia: комерційне (без карти), ~50 км захід, переважно короп, запасний (не відвідував)
-- [waters-bonarka](waters-bonarka.md) — Озеро Бонарка (Краків): локальне, регулярна локація; лящ/підлящ домінують + густера + краснопірка + карась + короп (зловлено 08-18/08-19); рекорди вікі: лящ 45 см (08-10), карась 36 см / зважений 1170 г (08-18); режим 35 zł/день, 6:00–21:00, 1 гачок, C&R
+- [waters-bonarka](waters-bonarka.md) — Озеро Бонарка (Краків): локальне, регулярна локація; лящ/підлящ домінують + густера + краснопірка + карась + короп (зловлено 08-18/08-19/09-06); рекорди вікі: лящ 45 см (08-10), карась 36 см / зважений 1170 г (08-18); **09-06 — дебют дистанційного фідера Armadale+N'ZON (42–46 об.): карась 1050 + короп 1260**; режим 35 zł/день, 6:00–21:00, 1 гачок, C&R
 - [waters-klaj](waters-klaj.md) — Łowisko Kłaj / жвировня PZW Tarnów: ✅ потенційне (дозвіл ~60 zł/день онлайн, без карти), ~30 км біля A4, лин+карась+лящ
-- [waters-kuterport](waters-kuterport.md) — Kuter Port (Nieznanowice): комерційне трофейне (короп), ~35 км, стани S1–S30, дистанційний фідер; візит 2026-08-23 (S20) — нуль (риба за ~45 м, пікер не дотягується)
+- [waters-kuterport](waters-kuterport.md) — Kuter Port (Nieznanowice): комерційне трофейне (короп), ~35 км, стани S1–S30, дистанційний фідер; візит 2026-08-23 (S20) — нуль (риба за ~45 м, пікер не дотягується); тепер є дистанційний фідер → кандидат на повтор
 
 ## Покупки й постачальники
 - [shopping](shopping.md) — куплено / в процесі / спробувати
