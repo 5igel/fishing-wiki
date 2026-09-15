@@ -37,12 +37,15 @@
 - **Kamasan B911 X-Strong Barbless Eyed №16 ×2** — 21,01 zł (2026-08-18); під херабуну (дрібна насадка) → [gear-terminal](gear-terminal.md)
 
 ### Оснастки
+- **Kamasan Method Barbless (готові повідці під flat method, ~10 см)** — ✅ (до 2026-09-15); ⚠️ фіксована довжина → у запас в'язати свої 15 см / 0,22 / №10 → [technique-rigging](technique-rigging.md)
 - **Готові махові оснастки (без поплавців)** — 2026-06-23; основа з фурнітурою, ще треба **огрузити разом з поплавцями** → [technique-ballasting](technique-ballasting.md)
 
 ### Прикормка
 - **MatchPro Total 1kg FEEDER (Karp/Leszcz/Lin/Karaś) ×3** — 24,98 zł (2026-08-18); **фідерна** прикормка (Old Ghost лишаються під херабуну); витрачено ≥1 кг 08-18/19/23 + 1 кг 09-06 → [technique-rigging](technique-rigging.md), [technique-feeding](technique-feeding.md)
 - **Traper Karmel (атрактор)** — ✅ (до 2026-09-06); у суху суміш MatchPro → [technique-feeding](technique-feeding.md)
 - **Sonubaits Absolute Liquid — Salted Caramel** — ✅ (до 2026-09-06); ліквід у годівницю / діп → [technique-feeding](technique-feeding.md)
+- **Sonubaits Band'Um Wafters 8 мм Scopex** + діп — ✅ (до 2026-09-15); насадка під flat method; солодкий профіль — літній, по холодній воді під сумнівом → [technique-feeding](technique-feeding.md)
+- **Пелет для флет-суміші (мікс 70/30 з прикормкою)** — ✅ (до 2026-09-15) → [technique-feeding](technique-feeding.md)
 
 ### Фурнітура / термінал
 - **Krętlik Jaxon швидкозйом AC-356416 ×2** — швидка заміна всієї оснастки — 8,36 zł → [gear-terminal](gear-terminal.md)
@@ -50,6 +53,7 @@
 - **Flagman Swivel Stop Beads M ×2 пак. (10 шт)** — 9,59 zł (2026-08-18); вертлюг+бусина 2-в-1 під running rig
 - **Korda Marker Elastic 6m** — 21 zł (2026-08-18); маркування дистанції (резерв кліпси)
 - **Годівниці 30–60 г, різні конфігурації** — ✅ (до 2026-09-06); під Armadale 3,60/100 → [gear-terminal](gear-terminal.md)
+- **Preston ICS Dura Flat (флет-метод годівниця)** — ✅ (до 2026-09-15); дебют Бонарка 09-15 → [gear-terminal](gear-terminal.md), [technique-rigging](technique-rigging.md)
 
 ### Інструменти / аксесуари
 - **Гачков'язка (Full Metal Hook Tier, AliExpress ~10 zł)** — ✅ куплено → [technique-knots](technique-knots.md)
@@ -113,6 +117,11 @@
 - **Тримач свинцю + свинцева пластина.**
 - **Конектор Stonfo на вершинку + суперклей.** ℹ️ На **TX3** є **порожниста трубчаста вершинка** → під неї **вставний Stonfo «wklejka do bata» ПІДХОДИТЬ** (це не той випадок, що з суцільним «китовим вусом» Moonlight/GOLDLITE). На суцільну вершинку — накладний/клейовий тип ([gear-rods](gear-rods.md)).
 - **Пошук AliExpress (англ.):** `iseni hook`, `figure 8 swivel`, `float seat pole fishing`, `lead seat`, `carp float 2.5g`, `nylon main line 0.234`.
+
+### Осінні атрактанти (sklepdrapieznik) — після нуля Бонарка 2026-09-15
+Гіпотеза: солодкий Scopex по воді <15 °C не реалізує тички → рибний/спецевий профіль на осінь ([technique-feeding](technique-feeding.md)).
+- **Sonubaits рідкий концентрат** у рибному/спецевому профілі — **Krill / Halibut / Spicy Sausage**, 1–2 флакони
+- **Sonubaits Band'Um Wafters 8 мм** у відповідному профілі (**Krill** або **Halibut**) — під осінню пірамідку паралельно літньому Scopex
 
 ### Спробувати пізніше / на майбутнє
 - **Платформа / сидіння-ящик (seatbox / podest)** — зручна делікатна ловля сидячи на нерівному березі. ⚠️ Дорого й несрочно. Варіанти (від повного до бюджетного):
