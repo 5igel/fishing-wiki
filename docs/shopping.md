@@ -42,6 +42,8 @@
 
 ### Прикормка
 - **MatchPro Total 1kg FEEDER (Karp/Leszcz/Lin/Karaś) ×3** — 24,98 zł (2026-08-18); **фідерна** прикормка (Old Ghost лишаються під херабуну); витрачено ≥1 кг 08-18/19/23 + 1 кг 09-06 → [technique-rigging](technique-rigging.md), [technique-feeding](technique-feeding.md)
+- **Lorpio Feeder Special Light** — ✅ (до 2026-09-16); **осіння база класики соло** (лише вода): Бонарка 09-16 — 6 риб / 5 видів → [technique-feeding](technique-feeding.md)
+- **Lorpio Magnetic Bream Leszcz** — ✅ (до 2026-09-16); **ще не тестований**; план 50/50 з Light → [technique-feeding](technique-feeding.md)
 - **Traper Karmel (атрактор)** — ✅ (до 2026-09-06); у суху суміш MatchPro → [technique-feeding](technique-feeding.md)
 - **Sonubaits Absolute Liquid — Salted Caramel** — ✅ (до 2026-09-06); ліквід у годівницю / діп → [technique-feeding](technique-feeding.md)
 - **Sonubaits Band'Um Wafters 8 мм Scopex** + діп — ✅ (до 2026-09-15); насадка під flat method; солодкий профіль — літній, по холодній воді під сумнівом → [technique-feeding](technique-feeding.md)
@@ -120,8 +122,9 @@
 
 ### Осінні атрактанти (sklepdrapieznik) — після нуля Бонарка 2026-09-15
 Гіпотеза: солодкий Scopex по воді <15 °C не реалізує тички → рибний/спецевий профіль на осінь ([technique-feeding](technique-feeding.md)).
-- **Sonubaits рідкий концентрат** у рибному/спецевому профілі — **Krill / Halibut / Spicy Sausage**, 1–2 флакони
-- **Sonubaits Band'Um Wafters 8 мм** у відповідному профілі (**Krill** або **Halibut**) — під осінню пірамідку паралельно літньому Scopex
+- **Осінні ліквіди (уточнено 2026-09-16): Krill & Squid, Glaze WORM, Garlic & Cheese** — рибний / черв'ячний / спецевий профілі під опариша й холодну воду. (Початковий список 09-15 — Krill / Halibut / Spicy Sausage — замінено цим.)
+- **Закормочні клітки XL 40 г** — під швидке будування точки на 30 м класикою (Armadale; наявні 30–60 г — робочі, не закормочні) → [gear-terminal](gear-terminal.md)
+- **Sonubaits Band'Um Wafters 8 мм** у відповідному профілі (Krill) — під осінню пірамідку паралельно літньому Scopex (флет; пріоритет нижчий після 09-16 — класика на опариша працює)
 
 ### Спробувати пізніше / на майбутнє
 - **Платформа / сидіння-ящик (seatbox / podest)** — зручна делікатна ловля сидячи на нерівному березі. ⚠️ Дорого й несрочно. Варіанти (від повного до бюджетного):
