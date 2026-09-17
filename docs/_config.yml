@@ -14,5 +14,85 @@ heading_anchors: true
 
 # GitHub Pages сам вмикає: jekyll-optional-front-matter (рендерить .md без front-matter),
 # jekyll-relative-links (.md-лінки → .html), jekyll-titles-from-headings (заголовок з першого # H1).
-# Порядок пунктів у сайдбарі — за абеткою заголовків (без front-matter). Хочеш інший порядок —
-# додамо сторінкам мінімальне front-matter з nav_order.
+# Порядок і структура сайдбара — у блоці defaults нижче (без front-matter у сторінках).
+
+# Ліве меню (just-the-docs): лише основні розділи; окремі сторінки — згорнуті підпункти хабів.
+# Задається через defaults за шляхом файлу, щоб сторінки лишались без front-matter.
+# Нова сторінка gear-rod-*/gear-reel-*/gear-float-*/gear-line-*/waters-* → додати її сюди як child.
+defaults:
+  - scope: { path: "index.md" }
+    values: { title: "Головна", nav_order: 1 }
+  - scope: { path: "waters.md" }
+    values: { title: "Водойми", nav_order: 2, has_children: true }
+  - scope: { path: "gear-rods.md" }
+    values: { title: "Вудки та котушки", nav_order: 3, has_children: true }
+  - scope: { path: "gear-floats.md" }
+    values: { title: "Поплавці", nav_order: 4, has_children: true }
+  - scope: { path: "gear-line.md" }
+    values: { title: "Ліска", nav_order: 5, has_children: true }
+  - scope: { path: "gear-terminal.md" }
+    values: { title: "Гачки та фурнітура", nav_order: 6 }
+  - scope: { path: "technique-rigging.md" }
+    values: { title: "Оснастка", nav_order: 7 }
+  - scope: { path: "technique-ballasting.md" }
+    values: { title: "Огрузка", nav_order: 8 }
+  - scope: { path: "technique-feeding.md" }
+    values: { title: "Годівля", nav_order: 9 }
+  - scope: { path: "technique-knots.md" }
+    values: { title: "В'язання та виважування", nav_order: 10 }
+  - scope: { path: "fish-log.md" }
+    values: { title: "Риба", nav_order: 11 }
+  - scope: { path: "shopping.md" }
+    values: { title: "Покупки", nav_order: 12 }
+  - scope: { path: "suppliers.md" }
+    values: { title: "Постачальники", nav_order: 13 }
+  - scope: { path: "links.md" }
+    values: { title: "Посилання", nav_order: 14 }
+  - scope: { path: "log.md" }
+    values: { title: "Лог", nav_order: 15 }
+  - scope: { path: "waters-bobrowe.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-bonarka.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-klaj.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-kocierz.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-kuterport.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-owczarnia.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "waters-poddebem.md" }
+    values: { parent: "Водойми" }
+  - scope: { path: "gear-reel-daiwa-nzon.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-reel-okuma.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-flagman-armadale.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-goldlite.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-mikado-390.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-mikado-420.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-mikado-picker.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-moonlight.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-rongyu-270.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-rongyu-570.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-rod-tx3.md" }
+    values: { parent: "Вудки та котушки" }
+  - scope: { path: "gear-float-balsa.md" }
+    values: { parent: "Поплавці" }
+  - scope: { path: "gear-float-fw06.md" }
+    values: { parent: "Поплавці" }
+  - scope: { path: "gear-float-xm02.md" }
+    values: { parent: "Поплавці" }
+  - scope: { path: "gear-float-xm03.md" }
+    values: { parent: "Поплавці" }
+  - scope: { path: "gear-line-trabucco-0255.md" }
+    values: { parent: "Ліска" }
