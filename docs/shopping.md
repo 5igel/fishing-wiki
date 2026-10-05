@@ -46,6 +46,8 @@
 - **Lorpio Magnetic Bream Leszcz** — ✅ (до 2026-09-16); **ще не тестований**; план 50/50 з Light → [technique-feeding](technique-feeding.md)
 - **Traper Karmel (атрактор)** — ✅ (до 2026-09-06); у суху суміш MatchPro → [technique-feeding](technique-feeding.md)
 - **Sonubaits Absolute Liquid — Salted Caramel** — ✅ (до 2026-09-06); ліквід у годівницю / діп → [technique-feeding](technique-feeding.md)
+- **Sonubaits Band'Um Wafters 8 мм — krill** і **«мотиль»** — ✅ (до 2026-10-05); флет Бонарка 10-05 — тички без реалізації, різниці між ними нема; план — krill 6 мм (половинка) → [technique-rigging](technique-rigging.md)
+- **Sonubaits Supercrush F1 Dark** (500 г на сесію) + **нейтральний пелетс 2 мм** — ✅ (до 2026-10-05); флет-суміш шарами → [technique-feeding](technique-feeding.md)
 - **Sonubaits Band'Um Wafters 8 мм Scopex** + діп — ✅ (до 2026-09-15); насадка під flat method; солодкий профіль — літній, по холодній воді під сумнівом → [technique-feeding](technique-feeding.md)
 - **Пелет для флет-суміші (мікс 70/30 з прикормкою)** — ✅ (до 2026-09-15) → [technique-feeding](technique-feeding.md)
 
@@ -55,7 +57,7 @@
 - **Flagman Swivel Stop Beads M ×2 пак. (10 шт)** — 9,59 zł (2026-08-18); вертлюг+бусина 2-в-1 під running rig
 - **Korda Marker Elastic 6m** — 21 zł (2026-08-18); маркування дистанції (резерв кліпси)
 - **Годівниці 30–60 г, різні конфігурації** — ✅ (до 2026-09-06); під Armadale 3,60/100 → [gear-terminal](gear-terminal.md)
-- **Preston ICS Dura Flat (флет-метод годівниця)** — ✅ (до 2026-09-15); дебют Бонарка 09-15 → [gear-terminal](gear-terminal.md), [technique-rigging](technique-rigging.md)
+- **Preston ICS Dura Flat L (флет-метод годівниця)** — ✅ (до 2026-09-15); дебют Бонарка 09-15 → [gear-terminal](gear-terminal.md), [technique-rigging](technique-rigging.md)
 
 ### Інструменти / аксесуари
 - **Гачков'язка (Full Metal Hook Tier, AliExpress ~10 zł)** — ✅ куплено → [technique-knots](technique-knots.md)
@@ -124,7 +126,7 @@
 Гіпотеза: солодкий Scopex по воді <15 °C не реалізує тички → рибний/спецевий профіль на осінь ([technique-feeding](technique-feeding.md)).
 - **Осінні ліквіди (уточнено 2026-09-16): Krill & Squid, Glaze WORM, Garlic & Cheese** — рибний / черв'ячний / спецевий профілі під опариша й холодну воду. (Початковий список 09-15 — Krill / Halibut / Spicy Sausage — замінено цим.)
 - **Закормочні клітки XL 40 г** — під швидке будування точки на 30 м класикою (Armadale; наявні 30–60 г — робочі, не закормочні) → [gear-terminal](gear-terminal.md)
-- **Sonubaits Band'Um Wafters 8 мм** у відповідному профілі (Krill) — під осінню пірамідку паралельно літньому Scopex (флет; пріоритет нижчий після 09-16 — класика на опариша працює)
+- ~~Sonubaits Band'Um Wafters 8 мм Krill~~ — ✅ куплено (див. «Прикормка»); 10-05 результату не дав. ℹ️ Інші рибалки на Бонарці: «солодке > часник» → Garlic & Cheese у списку вище під питанням, спершу тест Scopex 6 мм
 
 ### Спробувати пізніше / на майбутнє
 - **Платформа / сидіння-ящик (seatbox / podest)** — зручна делікатна ловля сидячи на нерівному березі. ⚠️ Дорого й несрочно. Варіанти (від повного до бюджетного):
